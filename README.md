@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zsralex
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning python.
+- 🐍 I’m currently learning python.
 - 😄 Pronouns: they/them (or ela/ele if you're a portuguese speaker)
 
 <!---
