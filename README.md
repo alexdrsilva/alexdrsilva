@@ -23,9 +23,7 @@ Sou estudante de Estatística na Universidade Federal do Espírito Santo, com fo
 
 ### Competências e aprendizados
 
-- APIs REST
-- Python, R, SQL e Power BI
-- Bancos de Dados relacionais
+- Python, R e SQL
 - HTML, CSS e JavaScript
 
 ---
